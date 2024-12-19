@@ -1,5 +1,5 @@
 
-# Análise de Notas de Alunos com Gênero e Gráficos
+# Análise de Notas de Alunos com Estátistica descritiva e Gráficos
 
 Este projeto tem como objetivo realizar uma análise de dados de um conjunto de notas de alunos, utilizando Python e bibliotecas como `pandas`, `seaborn` e `matplotlib`. O código permite identificar o gênero dos alunos com base nos seus nomes, além de calcular estatísticas sobre o desempenho acadêmico, como média, moda, mediana, e criar gráficos para visualização dos dados.
 
